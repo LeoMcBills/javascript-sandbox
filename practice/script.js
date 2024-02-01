@@ -8,3 +8,4 @@ const parent = document.getElementById("heading")
 console.log(parent)
 
 parent.alert
+
