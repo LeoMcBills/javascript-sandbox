@@ -1,3 +1,3 @@
-const parent = document.getElementsByTagName("h1")
+const parent = document.getElementById()
 
-console.log(parent)
+// console.log(parent)
