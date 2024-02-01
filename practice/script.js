@@ -1,4 +1,4 @@
-const parent = document.getElementById()
+// const parent = document.getElementById()
 
 // console.log(parent)
 console.log("DOM Practice")
